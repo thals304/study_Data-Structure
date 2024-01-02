@@ -1,0 +1,6 @@
+﻿  factorial_2.c
+C:\Users\somin\Desktop\C\DAY02-2\DAY02-2\factorial_2.c(2,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': 매크로 재정의
+  C:\Users\somin\Desktop\C\DAY02-2\DAY02-2\factorial_2.c(2,1):
+  이전에 명령줄에서 선언된 '_CRT_SECURE_NO_WARNINGS'
+  
+  DAY02-2.vcxproj -> C:\Users\somin\Desktop\C\DAY02-2\x64\Debug\DAY02-2.exe
