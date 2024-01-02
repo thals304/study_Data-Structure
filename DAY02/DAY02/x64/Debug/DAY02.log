@@ -1,7 +1,0 @@
-﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 중간 디렉터리(x64\Debug\)에 다른 프로젝트(DAY02.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
-  factorial_1.c
-C:\Users\somin\Desktop\C\DAY02\DAY02\factorial_1.c(2,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': 매크로 재정의
-  C:\Users\somin\Desktop\C\DAY02\DAY02\factorial_1.c(2,1):
-  이전에 명령줄에서 선언된 '_CRT_SECURE_NO_WARNINGS'
-  
-  DAY02.vcxproj -> C:\Users\somin\Desktop\C\DAY02\x64\Debug\DAY02_1.exe
